@@ -15,7 +15,7 @@ function Empty() {
 
 const styles = StyleSheet.create({
   block: {
-    flex: 11,
+    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
   },
